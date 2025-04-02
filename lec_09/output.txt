@@ -1,0 +1,3 @@
+The first seven is found at index: 3
+The last seven is found at index : 4
+All seven in the index are found at indexes: 3  4  
